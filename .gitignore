@@ -1,0 +1,5 @@
+﻿.git/
+
+# Ignore bin and obj 
+bin/
+obj/
